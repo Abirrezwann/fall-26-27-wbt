@@ -1,0 +1,16 @@
+education.htmnl :
+    university icon
+    university name 
+    degree name 
+    relevant courses
+
+    hsc collage icon 
+    hsc collage name 
+    stream 
+    relevant subjects 
+    
+
+    ssc school icon 
+    ssc school name 
+    stream 
+    relevant subjects 
